@@ -17,4 +17,4 @@ Suggested steps to completing this assignment
 
 Samples of Student Work
 ---------
-*none yet!*
+[Jasmine](JasmineDuck.gif)   
