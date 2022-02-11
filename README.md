@@ -17,4 +17,5 @@ Suggested steps to completing this assignment
 
 Samples of Student Work
 ---------
+[Renzl](RenzlDuck.gif)   
 [Jasmine](JasmineDuck.gif)   
