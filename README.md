@@ -17,6 +17,7 @@ Suggested steps to completing this assignment
 
 Samples of Student Work
 ---------
+[Theo](TheoDuck.gif)   
 [Renzl](RenzlDuck.gif)   
 [Jasmine](JasmineDuck.gif)   
 [Owen](OwenDuck.GIF)   
